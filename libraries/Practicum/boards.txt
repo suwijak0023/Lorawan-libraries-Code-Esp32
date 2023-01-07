@@ -1,0 +1,14 @@
+##############################################################
+
+practicum.name=Practicum Board, CPE, KU
+
+practicum.upload.protocol=usbasp
+practicum.upload.maximum_size=14336
+practicum.upload.speed=19200
+practicum.upload.disable_flushing=true
+practicum.upload.using=usbasp
+
+practicum.build.mcu=atmega168
+practicum.build.f_cpu=16000000L
+practicum.build.core=arduino:arduino
+practicum.build.variant=arduino:standard
